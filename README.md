@@ -1,0 +1,1 @@
+A simple Simon Says game built using JavaScript, HTML, and CSS. The game tests memory skills by displaying a sequence of colors that the player must repeat correctly. Each correct input increases the sequence length. Try to beat your high score! 🎮🎨✨
